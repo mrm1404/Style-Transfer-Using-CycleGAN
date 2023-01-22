@@ -16,4 +16,4 @@ We will use CycleGAN to translate the style of one MRI image to another, which w
 
 Refer this Jupyter Notebook File https://github.com/mrm1404/Style-Transfer-Using-CycleGAN/blob/main/Style_Transfer_Using_CycleGAN_with_Normalization.ipynb
 
-![Predicted_CycleGan_TR1_TR2_Image] (https://github.com/mrm1404/Style-Transfer-Using-CycleGAN/blob/main/cyclegan.gif)
+![Predicted_CycleGan_TR1_TR2_Image](https://github.com/mrm1404/Style-Transfer-Using-CycleGAN/blob/main/cyclegan.gif)
